@@ -1,0 +1,17 @@
+body{
+	background-color: lightgrey
+}
+
+h1
+		{color: purple;font-size: 85px;text-decoration: underline;}
+	h2
+		{color: orange; font-size: 60px}
+
+	#first
+		{font-size: 150px}
+		
+	span
+		{font-style: italic;}
+
+	h2 span{
+		text-decoration: line-through;
